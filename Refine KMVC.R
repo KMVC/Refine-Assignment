@@ -1,5 +1,4 @@
 #load relevant packages
-#install.packages("tidyverse")
 #library(tidyverse)
 
 #Step 0: load dataset
